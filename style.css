@@ -47,10 +47,13 @@ p{
 /* dream-big section css */
 
 .dream-big{
-    margin-top: 10px;
+    margin-top: 30px;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.margin-p{
+    margin-right: 90px;
 }
 /* .link-button-02{
     text-decoration: none;
@@ -63,6 +66,11 @@ p{
 
 
 /* Experience part */
+#experiences{
+    margin-left: 5%;
+    text-decoration: underline;
+    color: #ecac34;
+}
 .experiences-part{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
