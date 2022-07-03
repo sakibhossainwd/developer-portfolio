@@ -10,6 +10,7 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+    
 }
 h1{
     font-size: 50px;
@@ -26,6 +27,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-top: 20px;
 }
 .header-p{
     color: #696969;
@@ -38,3 +40,20 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+/* dream-big section css */
+
+.dream-big{
+    margin-top: 10px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* .link-button-02{
+    text-decoration: none;
+    font-weight: 700;
+    background-image:linear-gradient(45deg, #ff9672, #ff6b4e);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+} */
